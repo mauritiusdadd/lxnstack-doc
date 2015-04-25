@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="legend.svg"
+   inkscape:export-filename="/home/daddona/Documents/informatica/python/lxnstack/lxnstack-git/lxnstack/data/icons/legend.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.59375"
+     inkscape:cx="27.96169"
+     inkscape:cy="32.310143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="817"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36218)">
+    <g
+       id="g3869"
+       transform="matrix(1.1115152,0,0,1.1115152,-3.5684848,-113.78584)">
+      <rect
+         y="996.81055"
+         x="5.4483552"
+         height="47.103291"
+         width="53.103291"
+         id="rect2996"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.89671129;stroke-opacity:1" />
+      <text
+         transform="scale(0.98160863,1.0187359)"
+         sodipodi:linespacing="125%"
+         id="text3766"
+         y="987.80988"
+         x="15.568612"
+         style="font-size:9.53769684px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Arial Bold"
+           id="tspan3774"
+           y="987.80988"
+           x="15.568612"
+           sodipodi:role="line">Legend</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3778"
+         y="1018.2919"
+         x="27.537109"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-size:6px"
+           y="1018.2919"
+           x="27.537109"
+           id="tspan3780"
+           sodipodi:role="line">Deneb</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3788"
+         y="1028.2919"
+         x="28.008789"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-size:6px"
+           y="1028.2919"
+           x="28.008789"
+           id="tspan3790"
+           sodipodi:role="line">Altair</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3792"
+         y="1038.0995"
+         x="27.973633"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-size:6px"
+           id="tspan3796"
+           y="1038.0995"
+           x="27.973633"
+           sodipodi:role="line">Vega</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3800"
+         d="m 9.4875808,1015.8622 15.0490602,0"
+         style="fill:none;stroke:#ff00fe;stroke-width:0.98750269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3800-6"
+         d="m 9.4937513,1025.8684 15.0490607,0"
+         style="fill:none;stroke:#00ffff;stroke-width:0.98750269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3800-0"
+         d="m 9.4937513,1035.8684 15.0490607,0"
+         style="fill:none;stroke:#00ff00;stroke-width:0.98750269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         transform="translate(0,988.36218)"
+         y="24.66909"
+         x="14.545455"
+         height="6"
+         width="6"
+         id="rect3827"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#640064;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:transform-center-y="-1.1874307"
+         inkscape:transform-center-x="0.15421877"
+         transform="translate(1.9781818,991.15491)"
+         d="m 18.152727,38.516365 -2.866722,-2.072336 -2.795467,2.185671 1.085043,-3.366801 -2.942544,-1.983239 3.537315,-0.0085 0.976876,-3.41138 1.101138,3.361572 3.546286,-0.125111 -2.856775,2.086028 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5468319"
+         sodipodi:arg1="0.92246434"
+         sodipodi:r2="1.7681715"
+         sodipodi:r1="4.8175106"
+         sodipodi:cy="34.676365"
+         sodipodi:cx="15.243636"
+         sodipodi:sides="5"
+         id="path3829"
+         style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#006464;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="star" />
+      <path
+         transform="translate(-1.1636364,989.17673)"
+         d="m 21.061818,47.01091 a 2.7927272,2.7927272 0 0 1 -2.792727,2.792727 2.7927272,2.7927272 0 0 1 -2.792728,-2.792727 2.7927272,2.7927272 0 0 1 2.792728,-2.792727 2.7927272,2.7927272 0 0 1 2.792727,2.792727 z"
+         sodipodi:ry="2.7927272"
+         sodipodi:rx="2.7927272"
+         sodipodi:cy="47.01091"
+         sodipodi:cx="18.269091"
+         id="path3831"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#006400;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>
